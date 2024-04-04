@@ -1,0 +1,6 @@
+crispy/crispy/__pycache__/*
+
+crispy/polls/__pycache__/*
+
+crispy/polls/migrations/*
+
